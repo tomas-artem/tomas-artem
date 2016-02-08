@@ -1,4 +1,5 @@
-artem_test_delete_numbers_1..9
+artem_test_second_delete
+DELETE second!
 
 000
 
