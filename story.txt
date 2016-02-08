@@ -1,6 +1,4 @@
-123
-456
-789
+artem_test_delete_numbers_1..9
 
 000
 
