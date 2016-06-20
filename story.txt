@@ -1,0 +1,16 @@
+artem_test_second_delete
+DELETE second!
+
+000
+
+ABC
+
+DEF
+
+GHI
+
+second commit
+
+Third commit
+
+Branch_dev_first!
